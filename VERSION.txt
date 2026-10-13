@@ -1,0 +1,4 @@
+win64 engine drop
+infer 102  cat 100  features 2
+det.onnx = YOLOX AABB
+2026-10-13
